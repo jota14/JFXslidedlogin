@@ -29,7 +29,7 @@ public class Controller implements Initializable {
         pane1.setStyle("-fx-background-image: url(\"/sample/1.jpg\")");
         pane2.setStyle("-fx-background-image: url(\"/sample/2.jpg\")");
         pane3.setStyle("-fx-background-image: url(\"/sample/3.jpg\")");
-        //pane4.setStyle("-fx-background-image: url(\"/sample/4.jpg\")");
+        pane4.setStyle("-fx-background-image: url(\"/sample/4.jpg\")");
 
 
         backgroundAnimation();
